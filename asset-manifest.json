@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.16202f7b.chunk.js",
-    "main.js.map": "/static/js/main.16202f7b.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2ac9737b.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2ac9737b.js.map",
-    "static/js/2.2d38cf9c.chunk.js": "/static/js/2.2d38cf9c.chunk.js",
-    "static/js/2.2d38cf9c.chunk.js.map": "/static/js/2.2d38cf9c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.47a67079ea44db62de983b3e7ef824d9.js": "/precache-manifest.47a67079ea44db62de983b3e7ef824d9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.2d38cf9c.chunk.js.LICENSE": "/static/js/2.2d38cf9c.chunk.js.LICENSE"
+    "main.js": "//firaliexpress.github.io/hn-clone/static/js/main.2e89d551.chunk.js",
+    "main.js.map": "//firaliexpress.github.io/hn-clone/static/js/main.2e89d551.chunk.js.map",
+    "runtime-main.js": "//firaliexpress.github.io/hn-clone/static/js/runtime-main.9e8add67.js",
+    "runtime-main.js.map": "//firaliexpress.github.io/hn-clone/static/js/runtime-main.9e8add67.js.map",
+    "static/js/2.0fafc10f.chunk.js": "//firaliexpress.github.io/hn-clone/static/js/2.0fafc10f.chunk.js",
+    "static/js/2.0fafc10f.chunk.js.map": "//firaliexpress.github.io/hn-clone/static/js/2.0fafc10f.chunk.js.map",
+    "index.html": "//firaliexpress.github.io/hn-clone/index.html",
+    "precache-manifest.b5300d6e2ecaa8083b71727293111e85.js": "//firaliexpress.github.io/hn-clone/precache-manifest.b5300d6e2ecaa8083b71727293111e85.js",
+    "service-worker.js": "//firaliexpress.github.io/hn-clone/service-worker.js",
+    "static/js/2.0fafc10f.chunk.js.LICENSE": "//firaliexpress.github.io/hn-clone/static/js/2.0fafc10f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.2ac9737b.js",
-    "static/js/2.2d38cf9c.chunk.js",
-    "static/js/main.16202f7b.chunk.js"
+    "static/js/runtime-main.9e8add67.js",
+    "static/js/2.0fafc10f.chunk.js",
+    "static/js/main.2e89d551.chunk.js"
   ]
 }
