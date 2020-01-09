@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "//firaliexpress.github.io/hn-clone/static/js/main.2e89d551.chunk.js",
-    "main.js.map": "//firaliexpress.github.io/hn-clone/static/js/main.2e89d551.chunk.js.map",
-    "runtime-main.js": "//firaliexpress.github.io/hn-clone/static/js/runtime-main.9e8add67.js",
-    "runtime-main.js.map": "//firaliexpress.github.io/hn-clone/static/js/runtime-main.9e8add67.js.map",
-    "static/js/2.0fafc10f.chunk.js": "//firaliexpress.github.io/hn-clone/static/js/2.0fafc10f.chunk.js",
-    "static/js/2.0fafc10f.chunk.js.map": "//firaliexpress.github.io/hn-clone/static/js/2.0fafc10f.chunk.js.map",
-    "index.html": "//firaliexpress.github.io/hn-clone/index.html",
-    "precache-manifest.b5300d6e2ecaa8083b71727293111e85.js": "//firaliexpress.github.io/hn-clone/precache-manifest.b5300d6e2ecaa8083b71727293111e85.js",
-    "service-worker.js": "//firaliexpress.github.io/hn-clone/service-worker.js",
-    "static/js/2.0fafc10f.chunk.js.LICENSE": "//firaliexpress.github.io/hn-clone/static/js/2.0fafc10f.chunk.js.LICENSE"
+    "main.js": "/hn-clone/static/js/main.37e84428.chunk.js",
+    "main.js.map": "/hn-clone/static/js/main.37e84428.chunk.js.map",
+    "runtime-main.js": "/hn-clone/static/js/runtime-main.93a83eb2.js",
+    "runtime-main.js.map": "/hn-clone/static/js/runtime-main.93a83eb2.js.map",
+    "static/js/2.227b4c55.chunk.js": "/hn-clone/static/js/2.227b4c55.chunk.js",
+    "static/js/2.227b4c55.chunk.js.map": "/hn-clone/static/js/2.227b4c55.chunk.js.map",
+    "index.html": "/hn-clone/index.html",
+    "precache-manifest.38f59e38ab6d867e4b268c4cae4513a4.js": "/hn-clone/precache-manifest.38f59e38ab6d867e4b268c4cae4513a4.js",
+    "service-worker.js": "/hn-clone/service-worker.js",
+    "static/js/2.227b4c55.chunk.js.LICENSE": "/hn-clone/static/js/2.227b4c55.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.9e8add67.js",
-    "static/js/2.0fafc10f.chunk.js",
-    "static/js/main.2e89d551.chunk.js"
+    "static/js/runtime-main.93a83eb2.js",
+    "static/js/2.227b4c55.chunk.js",
+    "static/js/main.37e84428.chunk.js"
   ]
 }
